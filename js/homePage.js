@@ -1,4 +1,3 @@
-// getting everything from the html
 const menuItems = document.querySelectorAll(".list-item");
 const displayedHead = document.querySelector(".content-head");
 const displayedContent = document.querySelector(".content-content");
